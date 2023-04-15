@@ -68,7 +68,7 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 #### Deploy in your render
 <a href="https://render.com/deploy?repo=https://github.com/CodeXBotz/File-Sharing-Bot">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
 
@@ -160,5 +160,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Star this Repo if you Liked it ⭐⭐⭐**
+   ***Star this Repo if you Liked it ⭐⭐⭐**
 
